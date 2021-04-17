@@ -2,6 +2,10 @@
 
 # wechaty-room-forward
 
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/chatie/wechaty)
+[![Wechaty开源激励计划](https://img.shields.io/badge/Wechaty-开源激励计划-green.svg)](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty)
+[![Wechaty Contributor Program](https://img.shields.io/badge/Wechaty-Contributor%20Program-green.svg)](https://wechaty.js.org/docs/contributor-program)
+
 将所在群聊@到自己的消息转发到小号,一个很简单的插件，会监听你所有群聊房间中提到自己的消息进行转发
 
 ## Installation
